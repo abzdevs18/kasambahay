@@ -1,0 +1,19 @@
+.list-inline-item:not(:last-child) {
+}
+
+.hover_worker {
+  background: #333;
+  color: #fff;
+}
+
+.hover_worker button {
+  background: #fff !important;
+  color: #333;
+}
+
+.navigation_list li {
+  font-size: 18px !important;
+  font-weight: 500;
+  padding: 0 20px;
+  color: #666;
+}
